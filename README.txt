@@ -1,30 +1,8 @@
-Material Design for Bootstrap
+1. install nodejs from https://nodejs.org/en/download/
+(ignore if already installed)
 
-Version: MDB React Pro 4.11.0
+2. run npm install 
 
-Documentation:
-https://mdbootstrap.com/docs/react/
+3. run npm audit fix if warning appears
 
-Getting started:
-https://mdbootstrap.com/docs/react/getting-started/quick-start/
-
-FAQ
-https://mdbootstrap.com/react/faq/
-
-Support:
-https://mdbootstrap.com/support/cat/mdb-react/
-
-ChangeLog
-https://mdbootstrap.com/docs/react/changelog/
-
-License:
-https://mdbootstrap.com/license/
-
-Facebook: https://facebook.com/mdbootstrap
-Twitter: https://twitter.com/MDBootstrap
-Google+: https://plus.google.com/u/0/+Mdbootstrap/posts
-Dribbble: https://dribbble.com/mdbootstrap
-
-
-Contact:
-office@mdbootstrap.com
+4. run npm start
